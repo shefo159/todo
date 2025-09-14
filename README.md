@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+A todo App using Bloc statemanagement & sqflite database
 
 ## Getting Started
 
